@@ -123,7 +123,7 @@ the following URL as your source:
 
 ```txt
 https://s3.amazonaws.com/ironboard-learn/lion.jpg
-```
+
 
 ![lion](https://s3.amazonaws.com/ironboard-learn/lion.jpg)
 
